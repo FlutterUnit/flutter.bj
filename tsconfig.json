@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true,
+        "target": "ESNext",
+        "module": "ESNext",
+        "lib": [
+            "DOM"
+        ],
+        "jsx": "preserve",
+        "moduleResolution": "node",
+        "allowJs": true,
+        "outDir": "./build",
+    }
+}
